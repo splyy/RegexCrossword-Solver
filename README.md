@@ -1,0 +1,1 @@
+Solves regex crosswords such as the ones found on http://regexcrossword.com
