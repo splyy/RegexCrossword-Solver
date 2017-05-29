@@ -1,4 +1,4 @@
-|           | [^SPEAK]+ | EP|IP|EF |
-|-----------|-----------|----------|
-| HE|LL|O+  | H         | E        |
-| [PLEASE]+ | L         | P        |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
