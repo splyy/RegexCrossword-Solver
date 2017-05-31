@@ -6,10 +6,10 @@ Solves regex crosswords such as the ones found on http://regexcrossword.com <img
 - [x] Beginner
 - [x] Intermediate
 - [x] Experienced
-- [ ] Palindromeda
-- [ ] Double Cross
-- [ ] Cities
-- [ ] Volapük
+- [x] Palindromeda
+- [x] Double Cross
+- [x] Cities
+- [x] Volapük
 - [ ] Hamlet
 - [ ] Hexagonal
 
