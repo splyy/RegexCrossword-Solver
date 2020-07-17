@@ -1,17 +1,17 @@
-## Regexcrossword Solver
+## Regex Crossword Solver
 
 Solves regex crosswords such as the ones found on http://regexcrossword.com <img src="https://regexcrossword.com/img/logo.svg" height="24"> *(try it !)*
 
-- [x] [Tutorial](Tutorial/tutorial.md)
-- [x] Beginner
-- [x] Intermediate
-- [x] Experienced
-- [x] Palindromeda
-- [x] Double Cross
-- [x] Cities
-- [x] Volapük
-- [x] Hamlet
-- [x] Hexagonal
+- [x] [Tutorial](solver/Tutorial/tutorial.md)
+- [x] [Beginner](solver/Beginner/beginner.md)
+- [x] [Intermediate](solver/Intermediate/intermediate.md)
+- [x] [Experienced](solver/Experienced/experienced.md)
+- [x] [Palindromeda](solver/Palindromeda/palindromeda.md)
+- [x] [Double Cross](solver/Double&#32;Cross/double_cross.md)
+- [x] [Cities](solver/Cities/cities.md)
+- [x] [Volapük](solver/Volapük/volapuk.md)
+- [x] [Hamlet](solver/Hamlet/hamlet.md)
+- [x] [Hexagonal](solver/Hexagonal/hexagonal.md)
 
 On any directory, the files contain the solutions, so don't open them if you don't want to be spoiled :)
 
