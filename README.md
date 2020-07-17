@@ -3,6 +3,7 @@
 Solves regex crosswords such as the ones found on http://regexcrossword.com <img src="https://regexcrossword.com/img/logo.svg" height="24"> *(try it !)*
 <br>Actually, all puzzle except **Hexagonal** are solved :+1:
 
+- [ ] Tutorial
 - [x] Beginner
 - [x] Intermediate
 - [x] Experienced
